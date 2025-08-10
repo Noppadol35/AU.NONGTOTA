@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   authors: [{ name: "AU.NONGTOTA" }],
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
+  verification: {
+    google: "QcYGGJMJGToiai5t3n5h_7tyKXtKDocPTMLjkyEMYCk",
+  },
   openGraph: {
     title: "AU.NONGTOTA - Complete Toyota Car Repair Services",
     description:

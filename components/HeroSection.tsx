@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect } from 'react'
 import { Phone } from 'lucide-react'
-<meta name="google-site-verification" content="QcYGGJMJGToiai5t3n5h_7tyKXtKDocPTMLjkyEMYCk" />
 export default function HeroSection() {
     const [currentImageIndex, setCurrentImageIndex] = useState(0)
     
