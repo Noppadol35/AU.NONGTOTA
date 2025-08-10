@@ -8,7 +8,7 @@ export default function PromotionsSection() {
     {
       title: "Free Oil Change Labor",
       description: "Get free labor on oil changes when you bring your own oil",
-      discount: "FREE LABOR",
+      discount: "FREE",
       color: "bg-green-500"
     },
     {
