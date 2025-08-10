@@ -31,22 +31,28 @@ export default function ReviewsSection() {
   // Fallback reviews in case API fails
   const fallbackReviews: Review[] = [
     {
-      name: "Somchai Jaidee",
+      name: "Lukkai Kamaar",
       rating: 5,
-      comment: "Excellent service! My Camry runs like new after the engine repair. Professional and honest pricing.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+      comment: "ช่างที่นี้แก่ปัญหาตรงจุด รู้ต้นตอจริงที่สุดคะที่นี่",
+      image: "https://lh3.googleusercontent.com/a-/ALV-UjWxPx-92VSxVR4xdg0YC9Ssdov04Bpbhsd_gAxmbLCYtWT7Yx_mcg=w144-h144-p-rp-mo-br100"
     },
     {
-      name: "Niran Patel",
+      name: "mangmoom Moommoom",
       rating: 5,
-      comment: "Best Toyota service center in the area. Quick turnaround and quality work on my Corolla.",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+      comment: "",
+      image: "https://lh3.googleusercontent.com/a-/ALV-UjUNmoiwyyCTl6tyAqArYhzABPzFd4i8vTykEwcFXvK9dSyHkcPePw=w144-h144-p-rp-mo-ba3-br100"
     },
     {
-      name: "Apinya Chen",
+      name: "Nikon Udomtaveesub",
       rating: 5,
-      comment: "Friendly staff and fair prices. They explained everything clearly and fixed my Vios perfectly.",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=face"
+      comment: "ทำงานเรียบร้อย ละเอียด",
+      image: "https://lh3.googleusercontent.com/a/ACg8ocLnTgBcO3VSQNWH1niQVm14LlTn1Yefi_0bVBKU07-x63c8zQ=w144-h144-p-rp-mo-br100"
+    },
+    {
+      name: "THANYALAK LL",
+      rating: 5,
+      comment: "ซ่อมดี ซ่อมไว หาจุดเสียตรงจุด ราคาย่อมเยา",
+      image: "https://lh3.googleusercontent.com/a-/ALV-UjUxzLNwbpsYCl5nbeghqphjst6_Rw82k5BCqQ40syn8axCp-lsQ=w144-h144-p-rp-mo-ba5-br100"
     }
   ]
 
