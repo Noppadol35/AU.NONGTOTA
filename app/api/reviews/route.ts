@@ -9,18 +9,18 @@ export async function GET() {
             return NextResponse.json(cachedData);
         }
 
-        const placeId = process.env.GOOGLE_PLACE_ID;
-        const apiKey = process.env.GOOGLE_API_KEY;
+        // const placeId = process.env.GOOGLE_PLACE_ID;
+        // const apiKey = process.env.GOOGLE_API_KEY;
 
-        if (!placeId || !apiKey) {
-            return NextResponse.json(
-                { error: "Missing Google API configuration" },
-                { status: 500 }
-            );
-        }
+        // if (!placeId || !apiKey) {
+        //     return NextResponse.json(
+        //         { error: "Missing Google API configuration" },
+        //         { status: 500 }
+        //     );
+        // }
 
         const response = await fetch(
-            `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=name,rating,reviews,user_ratings_total&key=${apiKey}&language=th`
+            `https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJ1UrCT4BKHTERQTmCeYDBaew&fields=name,rating,reviews,user_ratings_total&key=AIzaSyDcr9yZgnNMrqLLTS0yP41cN1xsiIzcxWw&language=th`
         );
 
         if (!response.ok) {
