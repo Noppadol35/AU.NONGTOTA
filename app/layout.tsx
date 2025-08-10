@@ -33,7 +33,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/maintenance.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/maintenance.png" />
         <meta name="theme-color" content="#EB0A1E" />
       </head>
       <body className={inter.className}>{children}</body>
