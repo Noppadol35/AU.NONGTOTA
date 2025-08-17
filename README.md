@@ -158,10 +158,7 @@ Replace placeholder images with actual photos:
 ## Contact
 
 For support or questions about this landing page:
-- **Phone**: 089-247-2518
 - **Email**: nongtota.mechanic@gmail.com
-- **Address**: 91/38 หมู่3 ถนน สุขุมวิท ตำบล บ้านสวน อำเภอ เมืองชลบุรี จังหวัดชลบุรี 20000
-
 ---
 
 © 2025 AU.NONGTOTA. All rights reserved.
