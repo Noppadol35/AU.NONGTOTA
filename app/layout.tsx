@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AU.NONGTOTA - อู่ น้อง.โตต้า",
+  title: "อู่ น้อง.โตต้า - AU.NONGTOTA",
   description:
     "Professional Toyota repair services with fair prices and guaranteed quality. Expert technicians, genuine parts, and transparent pricing in Thailand.",
   keywords:
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   verification: {
     google: "QcYGGJMJGToiai5t3n5h_7tyKXtKDocPTMLjkyEMYCk",
   },
-  openGraph: {
-    title: "AU.NONGTOTA - อู่ น้อง.โตต้า",
+  openGraph: {  
+    title: "อู่ น้อง.โตต้า - AU.NONGTOTA",
     description:
       "Professional Toyota repair services with fair prices and guaranteed quality.",
     type: "website",
