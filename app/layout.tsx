@@ -5,11 +5,11 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AU.NONGTOTA - Complete Toyota Car Repair Services",
+  title: "AU.NONGTOTA - อู่ น้อง.โตต้า",
   description:
     "Professional Toyota repair services with fair prices and guaranteed quality. Expert technicians, genuine parts, and transparent pricing in Thailand.",
   keywords:
-    "Toyota repair, car service, automotive repair, engine repair, body paint, maintenance, electrical repair, Thailand",
+    "Toyota repair, car service, automotive repair, engine repair, body paint, maintenance, electrical repair, Thailand, อู่ น้องโตต้า, อู่ น้อง.โตต้า, อู่น้องโตต้า, อู่น้อง.โตต้า",
   authors: [{ name: "AU.NONGTOTA" }],
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     google: "QcYGGJMJGToiai5t3n5h_7tyKXtKDocPTMLjkyEMYCk",
   },
   openGraph: {
-    title: "AU.NONGTOTA - Complete Toyota Car Repair Services",
+    title: "AU.NONGTOTA - อู่ น้อง.โตต้า",
     description:
       "Professional Toyota repair services with fair prices and guaranteed quality.",
     type: "website",
